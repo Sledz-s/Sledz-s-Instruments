@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    ".#W",
+    "=#W",
+    ".#W"
+  ],
+  "key": {
+    ".": {
+      "item": "minecraft:iron_nugget"
+    },
+    "#": {
+      "item": "#minecraft:wool"
+    },
+    "W": {
+      "item": "#minecraft:wooden_tool_materials"
+    },
+    "=": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "sledzinstruments:accordeon",
+    "count": 1
+  }
+}

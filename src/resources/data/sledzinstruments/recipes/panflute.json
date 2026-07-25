@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "## ",
+    "CLC",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "#minecraft:concrete"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "sledzinstruments:panflute",
+    "count": 1
+  }
+}
